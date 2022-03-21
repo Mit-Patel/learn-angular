@@ -1,0 +1,9 @@
+Understanding Angular Versioning
+- AngularJS (Angular 1) (Never use angular 1)
+- Angular 2 (Complete Re-Write) 
+- Angular 4
+...
+- Angular 10,11,12,13
+
+- New version every 6 months
+
